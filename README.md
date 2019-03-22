@@ -1,4 +1,4 @@
 # Machine Learning
 
 ## Setup
-- Run `gcloud init`
+- Run `python3 ./deployment/install.py`
